@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex_\\source\\repos\\Atmos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\components\\pages\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\components\\pages\\productos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\components\\pages\\productosform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\components\\pages\\productosform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\repositorio\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\repositorio\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\repositorio\\irepositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\repositorio\\irepositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\modelos\\atmosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\modelos\\atmosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|c:\\users\\alex_\\source\\repos\\atmos\\atmos\\migrations\\20240504233913_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59742EE-3367-4809-9368-BDA42AF3EDFC}|Atmos\\Atmos.csproj|solutionrelative:atmos\\migrations\\20240504233913_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosForm.razor",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\Pages\\ProductosForm.razor",
+              "RelativeDocumentMoniker": "Atmos\\Components\\Pages\\ProductosForm.razor",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\Pages\\ProductosForm.razor",
+              "RelativeToolTip": "Atmos\\Components\\Pages\\ProductosForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T01:07:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Atmos\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Atmos\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T00:36:02.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productos.razor",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\Pages\\Productos.razor",
+              "RelativeDocumentMoniker": "Atmos\\Components\\Pages\\Productos.razor",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\Pages\\Productos.razor",
+              "RelativeToolTip": "Atmos\\Components\\Pages\\Productos.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T00:29:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Repositorio\\RepositorioProductos.cs",
+              "RelativeDocumentMoniker": "Atmos\\Repositorio\\RepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Repositorio\\RepositorioProductos.cs",
+              "RelativeToolTip": "Atmos\\Repositorio\\RepositorioProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:09:01.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Atmos\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Components\\_Imports.razor",
+              "RelativeToolTip": "Atmos\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T23:45:48.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "Atmos\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Modelos\\Producto.cs",
+              "RelativeToolTip": "Atmos\\Modelos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:39:35.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Program.cs",
+              "RelativeDocumentMoniker": "Atmos\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Program.cs",
+              "RelativeToolTip": "Atmos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:17:33.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Repositorio\\IRepositorioProductos.cs",
+              "RelativeDocumentMoniker": "Atmos\\Repositorio\\IRepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Repositorio\\IRepositorioProductos.cs",
+              "RelativeToolTip": "Atmos\\Repositorio\\IRepositorioProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:04:33.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240504233913_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Migrations\\20240504233913_Inicial.cs",
+              "RelativeDocumentMoniker": "Atmos\\Migrations\\20240504233913_Inicial.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Migrations\\20240504233913_Inicial.cs",
+              "RelativeToolTip": "Atmos\\Migrations\\20240504233913_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:39:13.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\appsettings.json",
+              "RelativeDocumentMoniker": "Atmos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\appsettings.json",
+              "RelativeToolTip": "Atmos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T23:21:27.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtmosDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Modelos\\AtmosDBContext.cs",
+              "RelativeDocumentMoniker": "Atmos\\Modelos\\AtmosDBContext.cs",
+              "ToolTip": "C:\\Users\\Alex_\\source\\repos\\Atmos\\Atmos\\Modelos\\AtmosDBContext.cs",
+              "RelativeToolTip": "Atmos\\Modelos\\AtmosDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:13:23.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
